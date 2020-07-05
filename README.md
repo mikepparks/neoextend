@@ -21,7 +21,7 @@ The NEOExtend boards are designed to use a standard 20 pin wiring harness, typic
 
 The mapping of controls on these boards makes the assumption that the device is compatible with the [Undamned UD-USB Decoder](http://udgametech.blogspot.com/) pinout specification. Other specifications, such as HAS or JNX, can be supported via board or cable modifications. Depending on the board variation being used, not all inputs will be available. View the README for the desired board variation for further details.
 
-![Undamned specification](https://i.imgur.com/n6t85pv.png)
+![Undamned specification](https://i.imgur.com/y3ZeKA4.png)
 
 Note: When using any of these boards on a Neo Geo platform specifically, due to the Undamned specification, be aware that the control configuration will map the _K1_ input from the arcade harness as the Neo Geo _D_ input.
 
