@@ -27,6 +27,8 @@ Note: When using any of these boards on a Neo Geo platform specifically, due to 
 
 ![Neo Geo input note](https://i.imgur.com/CHdECIa.png)
 
+Each variation of the NEOExtend board contains two 20 pin wiring harness connections to allow for daisy-chaining with existing input control hardware for compatibility with existing configurations.
+
 # License & Usage
 
 The NEOExtend board designs are being released to the public in hopes that they will be adapted, remixed, sold, given as tribute to the Black Magic Smoke deities, or whatever else may be done with them. However they are used, attribution is suggested, but not required.
