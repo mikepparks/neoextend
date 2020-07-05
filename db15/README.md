@@ -10,5 +10,5 @@ This variation of the NEOExtend board is intended for simplest interface between
 ![Completed Board Image](https://i.imgur.com/inGUtGQ.png)
 
 # Recommended Bill of Materials
-1 [Right-angle DA-15 connector with sockets](https://www.digikey.com/product-detail/en/amphenol-icc-fci/ID15S33E4GX00LF/609-5919-ND/1539017)
-2 [20 pin header connector](https://www.digikey.com/product-detail/en/3m/30320-6002HB/3M11932-ND/1237399)
+* 1 [Right-angle DA-15 connector with sockets](https://www.digikey.com/product-detail/en/amphenol-icc-fci/ID15S33E4GX00LF/609-5919-ND/1539017)
+* 2 [20 pin header connector](https://www.digikey.com/product-detail/en/3m/30320-6002HB/3M11932-ND/1237399)
